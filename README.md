@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 <h1 align="center">Tom's Jazz School</h1>
 
 <h2 align="center">
@@ -31,4 +33,4 @@ The following technologies were used in the development of the project:
 
 ## :memo: License
 
-This project is under the MIT license. See the file [LICENSE](/LICENSE) for more details.
+# This project is under the MIT license. See the file [LICENSE](/LICENSE) for more details.
