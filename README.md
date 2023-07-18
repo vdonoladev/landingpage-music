@@ -27,7 +27,7 @@
         <img src="img/example-mobile.jpeg" alt="Imagem para Celulares">
 </p>
 
-<h2 id="technologies">💻 Tecnologias</h2>
+<h2 id="tech">💻 Tecnologias</h2>
 
 - [HTML](https://devdocs.io/html)
 - [CSS](https://devdocs.io/css)
