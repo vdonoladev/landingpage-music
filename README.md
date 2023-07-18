@@ -21,8 +21,10 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="img/example-desktop.jpeg" alt="Imagem para Computadores" width="400px">
-    <img src="img/example-mobile.jpeg" alt="Imagem para Celulares" width="400px">
+    <h3>Desktop</h3>
+        <img src="img/example-desktop.jpeg" alt="Imagem para Computadores">
+    <h3>Mobile</h3>
+        <img src="img/example-mobile.jpeg" alt="Imagem para Celulares">
 </p>
 
 <h2 id="technologies">💻 Tecnologias</h2>
